@@ -4,7 +4,10 @@ Let's build a **Seasons Switcher** by applying the concepts of HTML, CSS and JS.
 
 ### Refer to the below image.
 
-seasons-switcher
+<div>
+  <img src="https://nkb-backend-media-static-tenxiitian.s3.ap-south-1.amazonaws.com/tenxiitian_prod/programs/Tech+Programs/frontend-content/ccbp/coding-practice-questions/dynamic-webapps/seasons-switcher-v1.gif" alt="seasons-switcher-v1">
+</div>
+
 ### Instructions:
 
 * The HTML img elements should have the ids `seasonSmallImage`, `seasonMediumImage`
